@@ -1,7 +1,5 @@
 # ESP32-BlueJammer
 
-# ESP32-BlueJammer
-
 **Bluetooth/BLE/WiFi/2.4GHz Jamming Board**
 
 The **ESP32-BlueJammer** is a compact, feature-packed board designed to disrupt devices operating in the 2.4GHz frequency range using ESP32 and nRF24 modules. It generates noise and excessive packets (DoS) that interfere with:
@@ -12,7 +10,7 @@ The **ESP32-BlueJammer** is a compact, feature-packed board designed to disrupt 
 - RC drones
 - IoT devices
 
-> ⚠️ **Disclaimer:** This project is based on the work of [Emensta](https://github.com/Emensta](https://github.com/EmenstaNougat/ESP32-BlueJammer). I only created the PCB to make the project easier to use. All original credit goes to them.
+> ⚠️ **Disclaimer:** This project is based on the work of [Emensta](https://github.com/Emensta). I only created the PCB to make the project easier to use. All original credit goes to them.
 
 ---
 
