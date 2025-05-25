@@ -56,7 +56,7 @@ The blink key is also printed on the right side of the board for quick reference
 
 ## 🔌 Flashing the Firmware
 
-You can easily flash your board using the browser-based [ESP32 BlueJammer Web Flasher](https://esp32-bluejammerflasher.pages.dev/).
+You can easily flash your board using the browser-based [ESP32 BlueJammer Web Flasher](https://esp32-bluejammerflasher.pages.dev/) provided by Emensta.
 
 ### Steps:
 1. Connect your ESP32 to your computer via USB.
