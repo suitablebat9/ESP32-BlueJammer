@@ -43,14 +43,28 @@ The blink key is also printed on the right side of the board for quick reference
 
 ## 🛰️ Mode Descriptions
 
-| Mode             | Description                         | Frequency Range          |
-|------------------|-------------------------------------|--------------------------|
-| **BT 80CH**      | Bluetooth Classic Jammer            | 2.402 – 2.480 GHz        |
-| **BLE 40CH**     | Bluetooth Low Energy Jammer         | 2.400 – 2.4835 GHz       |
-| **BT-BLE 40-80CH** | Classic BT + BLE Combo Jammer     | 2.400 – 2.4835 GHz       |
-| **BT-WiFi 14-80CH** | Classic BT + WiFi Combo Jammer   | 2.400 – 2.4835 GHz       |
-| **WiFi 14CH**    | WiFi Jammer                         | 2.400 – 2.4835 GHz       |
-| **2.4GHz All**   | RC / Drone Jammer (CH 1–125)        | 2.400 – 2.525 GHz        |
+| Mode               | Description                         | Frequency Range          |
+|--------------------|-------------------------------------|--------------------------|
+| **BT 80CH**        | Bluetooth Classic Jammer            | 2.402 – 2.480 GHz        |
+| **BLE 40CH**       | Bluetooth Low Energy Jammer         | 2.400 – 2.4835 GHz       |
+| **BT-BLE 40-80CH** | Classic BT + BLE Combo Jammer       | 2.400 – 2.4835 GHz       |
+| **BT-WiFi 14-80CH**| Classic BT + WiFi Combo Jammer      | 2.400 – 2.4835 GHz       |
+| **WiFi 14CH**      | WiFi Jammer                         | 2.400 – 2.4835 GHz       |
+| **2.4GHz All**     | RC / Drone Jammer (CH 1–125)        | 2.400 – 2.525 GHz        |
+
+---
+
+## 🔌 Flashing the Firmware
+
+You can easily flash your board using the browser-based [ESP32 BlueJammer Web Flasher](https://esp32-bluejammerflasher.pages.dev/).
+
+### Steps:
+1. Connect your ESP32 to your computer via USB.
+2. Open [this flasher link](https://esp32-bluejammerflasher.pages.dev/).
+3. Select the appropriate firmware and COM port.
+4. Click **Connect**, then **Flash**.
+
+> 💡 Tip: If flashing fails, make sure you’re using a data-capable USB cable and have the correct drivers installed for your ESP32.
 
 ---
 
