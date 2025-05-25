@@ -69,9 +69,22 @@ You can easily flash your board using the browser-based [ESP32 BlueJammer Web Fl
 
 ---
 
+## 🛒 Buy the Board
+
+Want a fully assembled board? You can purchase one from my Tindie store here:  
+👉 [PCB Studios on Tindie](https://www.tindie.com/stores/pcb-studios/)
+
+---
+
 ## 📦 What's Included
 
 - Fully assembled **ESP32-BlueJammer PCB**
 - PH 2.0 battery connector pre-installed
 - Matching PH 2.0 connector for your battery (DIY soldering)
 - Gerber files and schematic PDF (in this repo)
+
+---
+
+## ⚠️ Legal Notice
+
+This project is for educational purposes only. Do not use this board to interfere with any wireless communications unless you have permission and are operating in a controlled, legal environment. You are solely responsible for what you do with this device.
