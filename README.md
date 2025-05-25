@@ -75,8 +75,3 @@ You can easily flash your board using the browser-based [ESP32 BlueJammer Web Fl
 - PH 2.0 battery connector pre-installed
 - Matching PH 2.0 connector for your battery (DIY soldering)
 - Gerber files and schematic PDF (in this repo)
-
----
-
-## 📁 Repository Contents
-
