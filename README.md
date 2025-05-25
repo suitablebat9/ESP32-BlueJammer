@@ -72,7 +72,7 @@ You can easily flash your board using the browser-based [ESP32 BlueJammer Web Fl
 ## 🛒 Buy the Board
 
 Want a fully assembled board? You can purchase one from my Tindie store here:  
-👉 [PCB Studios on Tindie](https://www.tindie.com/stores/pcb-studios/)
+👉 [PCB Studios on Tindie](https://www.tindie.com/products/pcb-studios/esp32-bluejammer/)
 
 ---
 
