@@ -30,7 +30,7 @@ The **ESP32-BlueJammer** is a compact, feature-rich board designed to disrupt de
 
 ## 🔄 LED Blink Mode Key
 
-The **blue jamming LED** will blink to indicate the current active jamming mode:
+The **blue jamming LED** will blink to indicate the current active jamming mode on combo firmware:
 
 - `1 blink` = **BT** (Bluetooth Classic)  
 - `2 blinks` = **BLE** (Bluetooth Low Energy)  
