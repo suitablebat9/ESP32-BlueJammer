@@ -12,7 +12,7 @@ The **ESP32-BlueJammer** is a compact, feature-packed board designed to disrupt 
 - RC drones
 - IoT devices
 
-> ⚠️ **Disclaimer:** This project is based on the work of [Emensta](https://github.com/Emensta). I only created the PCB to make the project easier to use. All original credit goes to them.
+> ⚠️ **Disclaimer:** This project is based on the work of [Emensta]([https://github.com/Emensta](https://github.com/EmenstaNougat/ESP32-BlueJammer)). I only created the PCB to make the project easier to use. All original credit goes to them.
 
 ---
 
